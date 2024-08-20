@@ -2,6 +2,7 @@
 /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/mobile_base_final.xacro
 /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/mobile_base_gazebo_final.xacro
 /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/my_robot_final.xacro
+/home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/robotic_arm_final.xacro
 /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//launch/display_final.launch.xml
 /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//rviz/rviz_config_final.rviz
 /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/ament_index/resource_index/package_run_dependencies/final_project_description
