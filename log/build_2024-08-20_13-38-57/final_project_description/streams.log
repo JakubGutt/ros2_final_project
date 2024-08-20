@@ -1,0 +1,26 @@
+[0.008s] Invoking command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description -- -j16 -l16
+[0.033s] Invoked command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description -- -j16 -l16
+[0.052s] Invoking command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description
+[0.057s] -- Install configuration: ""
+[0.057s] -- Execute custom install script
+[0.057s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/common_properties_final.xacro
+[0.058s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/mobile_base_final.xacro
+[0.058s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/mobile_base_gazebo_final.xacro
+[0.058s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/my_robot_final.xacro
+[0.058s] -- Symlinking: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//launch/display_final.launch.xml
+[0.063s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/ament_index/resource_index/package_run_dependencies/final_project_description
+[0.063s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/ament_index/resource_index/parent_prefix_path/final_project_description
+[0.064s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/ament_prefix_path.sh
+[0.064s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/ament_prefix_path.dsv
+[0.064s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/path.sh
+[0.064s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/path.dsv
+[0.064s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.bash
+[0.064s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.sh
+[0.064s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.zsh
+[0.064s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.dsv
+[0.064s] -- Symlinking: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/package.dsv
+[0.070s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/ament_index/resource_index/packages/final_project_description
+[0.070s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/cmake/final_project_descriptionConfig.cmake
+[0.070s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/cmake/final_project_descriptionConfig-version.cmake
+[0.070s] -- Up-to-date symlink: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/package.xml
+[0.072s] Invoked command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description

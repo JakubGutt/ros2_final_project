@@ -1,0 +1,42 @@
+[0.007s] Invoking command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kuba/ROS2/ROS2_Gazebo_Final_Project/src/final_project_description -DCMAKE_INSTALL_PREFIX=/home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description
+[0.044s] -- The C compiler identification is GNU 11.4.0
+[0.081s] -- The CXX compiler identification is GNU 11.4.0
+[0.086s] -- Detecting C compiler ABI info
+[0.131s] -- Detecting C compiler ABI info - done
+[0.137s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.137s] -- Detecting C compile features
+[0.137s] -- Detecting C compile features - done
+[0.139s] -- Detecting CXX compiler ABI info
+[0.192s] -- Detecting CXX compiler ABI info - done
+[0.198s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.198s] -- Detecting CXX compile features
+[0.199s] -- Detecting CXX compile features - done
+[0.200s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.303s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.405s] -- Configuring done
+[0.407s] -- Generating done
+[0.407s] -- Build files have been written to: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description
+[0.410s] Invoked command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kuba/ROS2/ROS2_Gazebo_Final_Project/src/final_project_description -DCMAKE_INSTALL_PREFIX=/home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description
+[0.412s] Invoking command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description -- -j16 -l16
+[0.436s] Invoked command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description -- -j16 -l16
+[0.456s] Invoking command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description
+[0.461s] -- Install configuration: ""
+[0.461s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf
+[0.461s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//launch
+[0.461s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//rviz
+[0.461s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/ament_index/resource_index/package_run_dependencies/final_project_description
+[0.461s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/ament_index/resource_index/parent_prefix_path/final_project_description
+[0.461s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/ament_prefix_path.sh
+[0.461s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/ament_prefix_path.dsv
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/path.sh
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/path.dsv
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.bash
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.sh
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.zsh
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.dsv
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/package.dsv
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/ament_index/resource_index/packages/final_project_description
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/cmake/final_project_descriptionConfig.cmake
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/cmake/final_project_descriptionConfig-version.cmake
+[0.462s] -- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/package.xml
+[0.464s] Invoked command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/final_project_description

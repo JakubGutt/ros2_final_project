@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/my_robot_final.xacro
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/common_properties_final.xacro
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/mobile_base_gazebo_final.xacro
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//urdf/mobile_base_final.xacro
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//launch
+-- Installing: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//launch/display.launch.xml
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description//rviz
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/ament_index/resource_index/package_run_dependencies/final_project_description
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/ament_index/resource_index/parent_prefix_path/final_project_description
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/ament_prefix_path.sh
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/path.sh
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/environment/path.dsv
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.bash
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.sh
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.zsh
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/local_setup.dsv
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/package.dsv
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/ament_index/resource_index/packages/final_project_description
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/cmake/final_project_descriptionConfig.cmake
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/cmake/final_project_descriptionConfig-version.cmake
+-- Up-to-date: /home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/final_project_description/share/final_project_description/package.xml

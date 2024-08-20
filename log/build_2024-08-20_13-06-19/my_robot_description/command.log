@@ -1,0 +1,2 @@
+Invoking command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/my_robot_description': /usr/bin/cmake /home/kuba/ROS2/ROS2_Gazebo_Final_Project/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/my_robot_description
+Invoked command in '/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/my_robot_description' returned '1': /usr/bin/cmake /home/kuba/ROS2/ROS2_Gazebo_Final_Project/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/kuba/ROS2/ROS2_Gazebo_Final_Project/install/my_robot_description

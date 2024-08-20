@@ -1,0 +1,1 @@
+/home/kuba/ROS2/ROS2_Gazebo_Final_Project/build/my_robot_description/ament_cmake_environment_hooks/local_setup.bash
